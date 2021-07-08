@@ -1,14 +1,14 @@
 #1.1 Boas Vindas
 
-Sejam bem vindos ao curso de Shell da He4rt Developers.
+Sejam bem vindos ao curso de Bash da He4rt Developers.
 
-Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos trabalhando nos próximos passos para que você saia desse curso entendendo o básico para começar a programar utilizando a linguagem de script Shell.
+Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos trabalhando nos próximos passos para que você saia desse curso entendendo o básico para começar a programar utilizando a linguagem de script bash.
 
 Antes de iniciar, contaremos um pouco da história da linguagem, a fim de elucidar todo seu histórico.
 
 ## História
 
-Shell Script foi criada quando Dennis Ritchie e Ken Thompson buscavam algo que oferecesse características melhores do que os interpretadores de comando utilizados para interagir com os sistemas operacionais do tipo UNIX, gerando então a primeira versão do SHell, conhecida como sh.
+Shell Script foi criada quando Dennis Ritchie e Ken Thompson buscavam algo que oferecesse características melhores do que os interpretadores de comando utilizados para interagir com os sistemas operacionais do tipo UNIX, gerando então a primeira versão do Shell, conhecida como sh.
 
 Futuramente, a Free Software Foundation começou a trabalhar na linguagem do shell de Bourne, utilizando outros shells disponíveis gerando então o bash.
 
