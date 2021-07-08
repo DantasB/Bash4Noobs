@@ -9,7 +9,7 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Shell4Noobs</h2>
+  <h2 align="center">Bash4Noobs</h2>
 
   <h1 align="center"><img src="https://cdn.discordapp.com/attachments/539836343094870016/862108440515969054/unknown.png" alt="Imagem da linguagem"height="200"></h1>
   
@@ -18,17 +18,18 @@
     <a href="/docs"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DantasB/Shell4Noobs/issues/new?assignees=&labels=&template=bug_report.md&title=">Reportar Problema</a>
+    <a href="https://github.com/DantasB/Bash4Noobs/issues/new?assignees=&labels=&template=bug_report.md&title=">Reportar Problema</a>
     ·
-    <a href="https://github.com/DantasB/Shell4Noobs/issues/new?assignees=&labels=&template=feature_request.md&title=">Sugerir Novidades/Modificaçoes</a>
+    <a href="https://github.com/DantasB/Bash4Noobs/issues/new?assignees=&labels=&template=feature_request.md&title=">Sugerir Novidades/Modificaçoes</a>
   </p>
 </p>
     
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-A ideia deste repositório é ensinar ao leitor os conceitos e aplicaçoes basicas da linguagem de script Shell
-  
+
+A ideia deste repositório é ensinar ao leitor os conceitos e aplicaçoes basicas da linguagem de script Bash
+
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
@@ -47,6 +48,7 @@ são **extremamente apreciadas**
 - **Bruno Dantas de Paiva** - [@BDantas](https://dantasb.github.io/)
 
 ## Colaboradores
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/DantasB"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/15825133?s=400&u=01f980f0e5eefce5e8f4721489b732db2cb726d7&v=4" width="100px;" alt=""/><br /><sub><b>Bruno Dantas de Paiva</b></sub></a><br />
