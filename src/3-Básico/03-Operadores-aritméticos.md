@@ -73,6 +73,7 @@ Esse operador retorna a potência de um número com o expoênte dado, como podem
 
 ```bash
 #! /bin/bash
+
 echo $((3**2))
 ```
 
