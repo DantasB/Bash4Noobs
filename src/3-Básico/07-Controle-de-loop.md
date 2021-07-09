@@ -1,0 +1,66 @@
+# 3.7 Controle de loop
+
+Tal como outras linguagens de programação, os comandos de repetição do bash possuem 2 palavras reservadas para controle de loop, sendo elas: `break`e `continue`.
+
+A necessidade de utilização desses comandos se baseia conforme a necessidade do loop, e estes funcionam quase igual a outras linguagens de programação.
+
+A diferença é que ambas podem receber parâmetros que indicam qual será o loop que será parado (no caso do break) ou que será continuado (no caso do continue), observaremos melhor alguns dos exemplos abaixo:
+
+### Exemplo 1
+
+```bash
+#!/bin/sh
+
+A=0
+
+while [ $A -lt 10 ]
+do
+    echo $A
+    if [ $A -eq 5 ]
+    then
+        break
+    elif (($A == 1))
+        echo "O Valor obtido é 1"
+    then
+    fi
+    A=`expr $A + 1`
+done
+```
+
+### Exemplo 2
+
+```bash
+#!/bin/sh
+
+NUMS="1 2 3 4 5 6 7"
+
+for NUM in $NUMS
+do
+    Q=`expr $NUM % 2`
+    if [ $Q -eq 0 ]
+    then
+        echo "Número $NUM é par!!"
+        continue
+    fi
+    echo "Número $NUM é impar"
+done
+```
+
+### Exemplo 3
+
+```bash
+#!/bin/sh
+
+for i in 1 2 3
+do
+    for j in 0 5
+    do
+        if (($i==2 && j==0))
+        then
+            break 2
+        else
+            echo "$var1 $var2"
+        fi
+    done
+done
+```
