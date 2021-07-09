@@ -19,6 +19,17 @@ Onde condicional significa que a linguagem só testará o segundo lado se o prim
 | ==                       | igual                 |
 | !=                       | não igual (diferente) |
 
+Alguns outros tipos de ifs utilizados no bash utilizam outros tipos de operadores de Comparação, como veremos abaixo:
+
+| Operadores de Comparação | Significado           |
+| ------------------------ | --------------------- |
+| -gt                      | maior que             |
+| -lt                      | menor que             |
+| -ge                      | maior ou igual        |
+| -le                      | menor ou igual        |
+| -eq                      | igual                 |
+| -ne                      | não igual (diferente) |
+
 ## Exemplos:
 
 ```bash
@@ -28,10 +39,10 @@ DINHEIRO=120
 VALOR=100
 
 if (( $DINHEIRO >= $VALOR ))
-    then
-        echo "Você acabou de adquirir um fone de ouvido novo"
-    else
-        echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
+then
+    echo "Você acabou de adquirir um fone de ouvido novo"
+else
+    echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
 fi
 
 
