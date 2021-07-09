@@ -20,11 +20,14 @@ Além disso, o if possui duas formas de se escrever, observaremos melhor ambas n
 DINHEIRO=120
 VALOR=100
 
-if (( $DINHEIRO >= $VALOR ))
-    then
-        echo "Você acabou de adquirir um fone de ouvido novo"
-    else
-        echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
+if (( $DINHEIRO > $VALOR ))
+then
+    echo "Você acabou de adquirir um fone de ouvido novo"
+elif (($DINHEIRO == $VALOR))
+then
+    echo "Você acabou de adquirir um fone novo mas está sem nenhum dinheiro"
+else
+    echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
 fi
 
 ```
@@ -40,23 +43,12 @@ DINHEIRO=120
 VALOR=100
 
 if [ $DINHEIRO -ge $VALOR ]
-    then
-        echo "Você acabou de adquirir um fone de ouvido novo"
-    else
-        echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
+then
+    echo "Você acabou de adquirir um fone de ouvido novo"
+else
+    echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
 fi
 ```
-
-Os valores inteiros podem ser comparados com os seguintes operadores:
-
-| Operadores de Comparação | Significado           |
-| ------------------------ | --------------------- |
-| -gt                      | maior que             |
-| -lt                      | menor que             |
-| -ge                      | maior ou igual        |
-| -le                      | menor ou igual        |
-| -eq                      | igual                 |
-| -ne                      | não igual (diferente) |
 
 ## Switch-Case:
 
