@@ -1,0 +1,23 @@
+# ROADMAP
+
+- [1 - Introdução](/src/1-Introdução)
+  - [1.1 - Boas-vindas](/src/1-Introdução/01-Boas-vindas.md)
+- [2 - Ambiente](/src/2-Ambiente)
+  - [2.1 - Editores](/src/2-Ambiente/01-Editores.md)
+  - [2.2 - Windows](/src/2-Ambiente/02-Windows.md)
+  - [2.3 - Linux/macOS](/src/2-Ambiente/03-Linux-macOS.md)
+  - [2.4 - Online](/src/2-Ambiente/04-Online.md)
+- [3 - Básico](/src/3-Básico)
+  - [3.1 - Declaração de variáveis](/src/3-Básico/01-Declaração-de-variáveis.md)
+  - [3.2 - Entrada e saída](/src/3-Básico/02-Entrada-e-saída.md)
+  - [3.3 - Operadores aritméticos](/src/3-Básico/03-Operadores-aritméticos.md)
+  - [3.4 - Operadores lógicos](/src/3-Básico/04-Operadores-lógicos.md)
+  - [3.5 - Instruções condicionais](/src/3-Básico/05-Instruções-condicionais.md)
+  - [3.6 - Estruturas de repetição](/src/3-Básico/06-Estruturas-de-repetição.md)
+  - [3.7 - Controle de loop](/src/3-Básico/07-Controle-de-loop.md)
+- [4 - Intermediário](/src/4-Intermediario) <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-EM%20DESENVOLVIMENTO-purple">
+  - [4.1 - Variáveis especiais](/src/4-Intermediario/01-Variáveis-especiais.md)
+  - [4.2 - Funções](/src/4-Intermediario/02-Funções.md)
+  - [4.3 - Arrays](/src/4-Intermediario/03-Arrays.md)
+- [Avançado](#) <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-purple">
+- [5 - Referências](/src/01-Referências)
