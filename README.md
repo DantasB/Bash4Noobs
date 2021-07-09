@@ -15,7 +15,7 @@
   
   <p align="center">
     <br />
-    <a href="/docs"><strong>Explore a documentação »</strong></a>
+    <a href="/src"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/DantasB/Bash4Noobs/issues/new?assignees=&labels=&template=bug_report.md&title=">Reportar Problema</a>
