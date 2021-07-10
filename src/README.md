@@ -19,5 +19,6 @@
   - [4.1 - Variáveis especiais](/src/4-Intermediario/01-Variáveis-especiais.md)
   - [4.2 - Funções](/src/4-Intermediario/02-Funções.md)
   - [4.3 - Arrays](/src/4-Intermediario/03-Arrays.md)
+  - [4.4 - Debug](/src/4-Intermediario/04-Debug.md)
 - [Avançado](#) <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-purple">
 - [5 - Referências](/src/01-Referências)
