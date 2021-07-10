@@ -1,4 +1,4 @@
-# 3.1 Declaração de Variáveis
+# 3.2 Declaração de Variáveis
 
 Assim como toda a linguagem de programação possuem variáveis, o Bash não é a exceção. Nesse tópico iremos introduzir a ideia e mais para frente aprofundaremos mais alguns outros tipos de variáveis.
 

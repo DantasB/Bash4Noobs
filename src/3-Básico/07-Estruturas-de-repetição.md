@@ -1,4 +1,4 @@
-# 3.6 Estruturas de Repetição
+# 3.7 Estruturas de Repetição
 
 Os comandos de repetição são um recurso que permite que um certo trecho do código de um programa dentro deste loop seja repetido um certo número de vezes.
 Facilitando gerar códigos mais organizados e lógicas mais complexas.

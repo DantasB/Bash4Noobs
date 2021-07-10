@@ -1,4 +1,4 @@
-# 3.5 Instruções Condicionais
+# 3.6 Instruções Condicionais
 
 As instruções condicionais são utilizados quando é trazer lógica de maneira mais simples ao nosso código, como foi visto no capítulo anterior.
 

@@ -1,4 +1,4 @@
-# 3.7 Controle de loop
+# 3.8 Controle de loop
 
 Tal como outras linguagens de programação, os comandos de repetição do bash possuem 2 palavras reservadas para controle de loop, sendo elas: `break`e `continue`.
 

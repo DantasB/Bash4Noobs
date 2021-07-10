@@ -1,4 +1,4 @@
-# 3.2 Entrada e Saída
+# 3.3 Entrada e Saída
 
 Para você observar alguns resultados de operações feitas em bash ou receber entradas de usuários, precisamos utilizar funções padrões (echo ou printf e read).
 
