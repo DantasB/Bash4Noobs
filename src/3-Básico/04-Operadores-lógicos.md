@@ -21,14 +21,22 @@ Onde condicional significa que a linguagem só testará o segundo lado se o prim
 
 Alguns outros tipos de ifs utilizados no bash utilizam outros tipos de operadores de Comparação, como veremos abaixo:
 
-| Operadores de Comparação | Significado           |
-| ------------------------ | --------------------- |
-| -gt                      | maior que             |
-| -lt                      | menor que             |
-| -ge                      | maior ou igual        |
-| -le                      | menor ou igual        |
-| -eq                      | igual                 |
-| -ne                      | não igual (diferente) |
+| Operadores de Comparação | Significado                |
+| ------------------------ | -------------------------- |
+| -gt                      | maior que                  |
+| -lt                      | menor que                  |
+| -ge                      | maior ou igual             |
+| -le                      | menor ou igual             |
+| -eq                      | igual                      |
+| -ne                      | não igual (diferente)      |
+| -d                       | arquivo é diretório        |
+| -e                       | arquivo existe             |
+| -z                       | arquivo vazio              |
+| -f                       | arquivo contém texto       |
+| -o                       | usuário é dono do arquivo  |
+| -r                       | arquivo pode ser lido      |
+| -w                       | arquivo pode ser alterado  |
+| -x                       | arquivo pode ser executado |
 
 ## Exemplos:
 
