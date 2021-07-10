@@ -16,10 +16,9 @@
   - [3.6 - Instruções condicionais](/src/3-Básico/05-Instruções-condicionais.md)
   - [3.7 - Estruturas de repetição](/src/3-Básico/06-Estruturas-de-repetição.md)
   - [3.8 - Controle de loop](/src/3-Básico/07-Controle-de-loop.md)
-- [4 - Intermediário](/src/4-Intermediario) <img alt="Badge em desenvolvimento" src="https://img.shields.io/badge/-EM%20DESENVOLVIMENTO-purple">
+- [4 - Intermediário](/src/4-Intermediario)
   - [4.1 - Variáveis especiais](/src/4-Intermediario/01-Variáveis-especiais.md)
   - [4.2 - Funções](/src/4-Intermediario/02-Funções.md)
   - [4.3 - Arrays](/src/4-Intermediario/03-Arrays.md)
   - [4.4 - Debug](/src/4-Intermediario/04-Debug.md)
-- [Avançado](#) <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-purple">
 - [5 - Referências](/src/01-Referências)
