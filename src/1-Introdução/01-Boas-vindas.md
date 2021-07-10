@@ -28,6 +28,6 @@ echo "hello world!"
 
 ```
 
-Para participar do curso é não é necessário nenhum conhecimento prévio de lógica de programação, porém será interessante se você o tiver.
+Para participar do curso não é necessário nenhum conhecimento prévio de lógica de programação, porém será interessante se você o tiver.
 
 Além disso, por se tratar de um curso apenas escrito, terão links adicionais para te auxiliar futuramente em seus projetos ou com o andamento do curso.
