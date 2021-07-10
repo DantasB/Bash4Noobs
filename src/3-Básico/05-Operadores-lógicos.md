@@ -1,4 +1,4 @@
-# 3.4 Operadores lógicos e de Comparação
+# 3.5 Operadores lógicos e de Comparação
 
 Os operadores lógicos são utilizados quando é necessário usar duas ou mais condições dentro da mesma instrução if para que seja tomada uma única decisão cujo resultado será verdadeiro ou falso.
 

@@ -1,4 +1,4 @@
-# 3.3 Operadores Aritméticos
+# 3.4 Operadores Aritméticos
 
 Assim como toda a linguagem de programação o Bash também suporta alguns operadores aritméticos. Eles são os operadores de adição, subtração, multiplicação, divisão, módulo (resto da divisão) e exponenciação.
 
