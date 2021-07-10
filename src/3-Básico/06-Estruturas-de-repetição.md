@@ -13,7 +13,7 @@ Esta estrutura irá checar primeiro a condição e, caso a condição seja `true
 ### Exemplo
 
 ```bash
-#!/bin/sh
+#!/bin/bash
 
 CONTROL=0
 
