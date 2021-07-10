@@ -51,7 +51,8 @@ são **extremamente apreciadas**
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/DantasB"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/15825133?s=400&u=01f980f0e5eefce5e8f4721489b732db2cb726d7&v=4" width="100px;" alt=""/><br /><sub><b>Bruno Dantas de Paiva</b></sub></a><br />
+    <td align="center"><a href="https://github.com/DantasB"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/15825133?s=400&u=01f980f0e5eefce5e8f4721489b732db2cb726d7&v=4" width="100px;" alt=""/><br /><sub><b>Bruno Dantas de Paiva</b></sub></a><br />
+    <td align="center"><a href="https://github.com/gth1ago"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/52335972?s=460&u=ae8b355f816ba6e875bd07d2562a1182fad3b6a6&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Thiago</b></sub></a><br />
   </tr>
 </table>
 
