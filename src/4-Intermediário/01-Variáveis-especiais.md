@@ -13,4 +13,5 @@ Nesta tabela, você poderá encontrar e descobrir como utilizar algumas dessas v
 | $#                  | Número de parâmetros que o script recebeu.                                                       |
 | $0                  | Nome do programa executado.                                                                      |
 | $!                  | Retorna o PID do último programa executado.                                                      |
+| $$                  | Retorna o PID do processo sob o qual o script está sendo executado.                              |
 | $?                  | Output do ultimo programa executado.                                                             |
