@@ -21,4 +21,4 @@
   - [4.2 - Funções](/src/4-Intermediário/02-Funções.md)
   - [4.3 - Arrays](/src/4-Intermediário/03-Arrays.md)
   - [4.4 - Debug](/src/4-Intermediário/04-Debug.md)
-- [5 - Referências](/src/01-Referências)
+- [5 - Referências](/src/5-Referências/01-Referências.md)
