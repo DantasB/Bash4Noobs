@@ -9,7 +9,7 @@ A diferença é que ambas podem receber parâmetros que indicam qual será o loo
 ### Exemplo 1
 
 ```bash
-#!/bin/sh
+#!/bin/bash
 
 A=0
 
@@ -20,8 +20,8 @@ do
     then
         break
     elif (($A == 1))
-        echo "O Valor obtido é 1"
     then
+        echo "O Valor obtido é 1"
     fi
     A=`expr $A + 1`
 done
@@ -30,7 +30,7 @@ done
 ### Exemplo 2
 
 ```bash
-#!/bin/sh
+#!/bin/bash
 
 NUMS="1 2 3 4 5 6 7"
 
@@ -49,7 +49,7 @@ done
 ### Exemplo 3
 
 ```bash
-#!/bin/sh
+#!/bin/bash
 
 for i in 1 2 3
 do
@@ -59,7 +59,7 @@ do
         then
             break 2
         else
-            echo "$var1 $var2"
+            echo "$i $j"
         fi
     done
 done
