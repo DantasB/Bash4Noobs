@@ -18,7 +18,7 @@ Onde condicional significa que a linguagem só testará o segundo lado se o prim
 | <=                       | menor ou igual        |
 | ==                       | igual                 |
 | !=                       | não igual (diferente) |
-|
+
 Alguns outros tipos de ifs utilizados no bash utilizam outros tipos de operadores de Comparação, como veremos abaixo:
 
 | Operadores de Comparação | Significado           |
