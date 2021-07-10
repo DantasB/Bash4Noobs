@@ -27,7 +27,7 @@ Alguns outros tipos de ifs utilizados no bash utilizam outros tipos de operadore
 | -lt                      | menor que                  |
 | -ge                      | maior ou igual             |
 | -le                      | menor ou igual             |
-| -eq                      | igual                      |
+| -eq                      | equivalente/igual          |
 | -ne                      | não igual (diferente)      |
 | -d                       | arquivo é diretório        |
 | -e                       | arquivo existe             |
@@ -53,6 +53,23 @@ else
     echo "Você ainda não possui dinheiro para comprar este fone de ouvido"
 fi
 
+
+```
+E agora, na  prática da diferença de "-eq" no qual compara inteiros com "==" em que compara as string em si:
+
+```bash
+#! /bin/bash
+
+if [ 01 -eq 1 ]
+then
+    echo "01 equivale a 1"
+fi
+if [ 01 == 1 ]
+then
+    echo "01 é igual a 1"
+else
+    echo "01 não é igual a 1"
+fi
 
 ```
 
