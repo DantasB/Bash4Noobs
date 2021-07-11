@@ -29,3 +29,12 @@ Para verificar qual será a saida deste código, execute em seu terminal ou em u
 É importante ressaltar que, SEMPRE que formos acessar uma variável, é necessário utilizar o `$` antes da variável.
 
 Veremos mais a frente como funciona o `echo`.
+
+<p align="center">
+  <a href="01-Como-executar.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605852304048148/anterior.png" height=35>
+  </a>
+  <a href="03-Entrada-e-saída.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>

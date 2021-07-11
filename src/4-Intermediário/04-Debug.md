@@ -40,3 +40,12 @@ set +x
 
 echo "Não estou sendo debugado"
 ```
+
+<p align="center">
+  <a href="03-Arrays.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605852304048148/anterior.png" height=35>
+  </a>
+  <a href="../5-Referências/01-Referências.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>

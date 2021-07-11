@@ -74,3 +74,12 @@ fi
 ```
 
 Note que alguns dos comandos utilizados acima serão vistos posteriormente!
+
+<p align="center">
+  <a href="04-Operadores-aritméticos.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605852304048148/anterior.png" height=35>
+  </a>
+  <a href="06-Instruções-condicionais.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>

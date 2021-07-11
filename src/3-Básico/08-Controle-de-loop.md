@@ -64,3 +64,12 @@ do
     done
 done
 ```
+
+<p align="center">
+  <a href="07-Estruturas-de-repetição.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605852304048148/anterior.png" height=35>
+  </a>
+  <a href="../4-Intermediário/01-Variáveis-especiais.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>
