@@ -79,3 +79,12 @@ echo ${MEU_ARRAY[@]:2} # A saída será D E, pois estamos pegando do elemento de
 echo ${MEU_ARRAY[@]:-1} # A saída será E, pois estamos pegando o último elemento do array (similar ao python)
 
 ```
+
+<p align="center">
+  <a href="02-Funções.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605852304048148/anterior.png" height=35>
+  </a>
+  <a href="04-Debug.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>
