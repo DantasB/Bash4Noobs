@@ -33,7 +33,7 @@ Para participar do curso não é necessário nenhum conhecimento prévio de lóg
 Além disso, por se tratar de um curso apenas escrito, terão links adicionais para te auxiliar futuramente em seus projetos ou com o andamento do curso.
 
 <p align="center">
-  <a href="../2-Ambiente/01-Editores">
+  <a href="../2-Ambiente/01-Editores.md">
     <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
   </a>
 </p>
