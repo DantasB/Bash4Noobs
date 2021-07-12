@@ -18,6 +18,7 @@ Onde condicional significa que a linguagem só testará o segundo lado se o prim
 | <=                       | menor ou igual        |
 | ==                       | igual                 |
 | !=                       | não igual (diferente) |
+| =~                       | checa padrão          |
 
 Alguns outros tipos de ifs utilizados no bash utilizam outros tipos de operadores de Comparação, como veremos abaixo:
 
@@ -69,6 +70,22 @@ then
     echo "01 é igual a 1"
 else
     echo "01 não é igual a 1"
+fi
+
+```
+
+Utilizando o operador "=~" para validar um email usando Expressões Regulares (Regex).
+
+```bash
+#! /bin/bash
+
+EMAIL="bash4noobs@example.com"
+
+if [[ $EMAIL =~ ^[A-Za-z0-9]+@[A-Za-z0-9]+\.[A-Za-z]+$ ]]
+then
+    echo "O email é válido"
+else
+    echo "O email não é válido"
 fi
 
 ```
