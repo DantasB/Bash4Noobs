@@ -41,6 +41,19 @@ done
 
 ```
 
+Também é possível usar o `for` com uma sintaxe semelhante a do C.
+
+### Exemplo
+
+```bash
+#! /bin/bash
+
+for ((i=0; i < 10; i++))
+do
+   echo $i
+done
+```
+
 ## Until
 
 O `until` é uma estrutura de loop que funciona de forma similar ao do while.
