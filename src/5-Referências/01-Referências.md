@@ -2,8 +2,12 @@
 
 ## Sites com dicas/informações sobre bash
 
-- https://www.shellscript.sh/
-- https://www.tutorialspoint.com/unix/shell_scripting.htm
+- [The Shell Scripting Tutorial](https://www.shellscript.sh/)
+- [Learn Unix TutorialsPoint](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+
+## Livros com dicas/informações sobre bash
+
+- [Programação Shell Linux: Referência Definitiva da Linguagem Shell](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Shell-Linux-Refer%C3%AAncia-Definitiva/dp/6586057604)
 
 
 <p align="center">
